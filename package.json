@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-less-starter",
+  "name": "sass-techniques-1",
   "version": "1.0.0",
-  "description": "Simple bootstrap less starter kit",
+  "description": "Sass project to update new HTML and CSS techniques.",
   "main": "index.js",
   "repository": "",
   "license": "MIT",
